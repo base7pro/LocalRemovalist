@@ -9,7 +9,7 @@ export const SITE = {
 	description: 'Choose Local Removalist for your Brisbane to Gold Coast moving needs at unbeatable prices! Our expert team provides top-notch furniture removal services as the leading removalists from Gold Coast to Brisbane.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
-	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
+	googleSiteVerificationId: '',
 };
 
 export const BLOG = {
